@@ -5,6 +5,8 @@ Quickly start a kick butt Jekyll powered Foundation website using github pages!
 
 You can see the working page here: [github pages](http://daigofuji.github.io/jekyll-foundation-4-starter/)
 
+Updated! See <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages">https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages</a>
+
 
 1. Go to [gh-pages branch](https://github.com/daigofuji/jekyll-foundation-4-starter/tree/gh-pages) of this repo.
 2. Download it.
